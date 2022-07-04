@@ -1,2 +1,2 @@
 # Lógica de programação / FACCAT
-Exercícios de lógica em Portugol
+Exercícios de lógica em Portugol / Apostila FACCAT
